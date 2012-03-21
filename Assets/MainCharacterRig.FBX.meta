@@ -1,0 +1,135 @@
+fileFormatVersion: 1
+guid: 36761deffab2e8e4f84be085a3587482
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    Bip01 L Clavicle:
+    - 100000
+    - 400000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+    Bip01 L Finger0Nub:
+    - 100004
+    - 400004
+    Bip01 R Clavicle:
+    - 100006
+    - 400006
+    Bip01 R Finger0Nub:
+    - 100008
+    - 400008
+    Sword_001:
+    - 100010
+    - 400010
+    - 13700000
+    Bip01:
+    - 100012
+    - 400012
+    Bip01 Footsteps:
+    - 100014
+    - 400014
+    Bip01 R Toe02:
+    - 100016
+    - 400016
+    LeftKnee:
+    - 100018
+    - 400018
+    Bip01 L Toe0:
+    - 100020
+    - 400020
+    Bip01 L Toe0Nub:
+    - 100022
+    - 400022
+    LeftElbow:
+    - 100024
+    - 400024
+    LeftHand:
+    - 100026
+    - 400026
+    LeftFoot:
+    - 100028
+    - 400028
+    LeftShoulder:
+    - 100030
+    - 400030
+    RightKnee:
+    - 100032
+    - 400032
+    RightHip:
+    - 100034
+    - 400034
+    Bip01 L Toe01:
+    - 100036
+    - 400036
+    Bip01 R Toe01:
+    - 100038
+    - 400038
+    RightElbow:
+    - 100040
+    - 400040
+    Bip01 HeadNub:
+    - 100042
+    - 400042
+    Torso:
+    - 100044
+    - 400044
+    RightShoulder:
+    - 100046
+    - 400046
+    Bip01 R Finger0:
+    - 100048
+    - 400048
+    Bip01 L Finger0:
+    - 100050
+    - 400050
+    RightHand:
+    - 100052
+    - 400052
+    Head:
+    - 100054
+    - 400054
+    Bip01 Neck:
+    - 100056
+    - 400056
+    Bip01 R Toe0:
+    - 100058
+    - 400058
+    RightFoot:
+    - 100060
+    - 400060
+    Bip01 R Toe0Nub:
+    - 100062
+    - 400062
+    Bip01 L Toe02:
+    - 100064
+    - 400064
+    Bip01 Pelvis:
+    - 100066
+    - 400066
+    LeftHip:
+    - 100068
+    - 400068
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Sword_001
