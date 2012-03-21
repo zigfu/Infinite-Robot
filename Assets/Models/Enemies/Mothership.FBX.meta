@@ -1,0 +1,226 @@
+fileFormatVersion: 1
+guid: a3b0244f8f75a96418fce4d5c9d37677
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    Sphere04:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    Cylinder02:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    Cylinder15:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    Group05:
+    - 100006
+    - 400006
+    Sphere12:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    Group02:
+    - 100010
+    - 400010
+    Cylinder10:
+    - 100012
+    - 400012
+    - 3300008
+    - 2300008
+    Cylinder11:
+    - 100014
+    - 400014
+    - 3300010
+    - 2300010
+    Sphere09:
+    - 100016
+    - 400016
+    - 3300012
+    - 2300012
+    Cylinder04:
+    - 100018
+    - 400018
+    - 3300014
+    - 2300014
+    Cylinder06:
+    - 100020
+    - 400020
+    - 3300016
+    - 2300016
+    Group09:
+    - 100022
+    - 400022
+    Sphere07:
+    - 100024
+    - 400024
+    - 3300018
+    - 2300018
+    Cylinder03:
+    - 100026
+    - 400026
+    - 3300020
+    - 2300020
+    Sphere02:
+    - 100028
+    - 400028
+    - 3300022
+    - 2300022
+    Sphere03:
+    - 100030
+    - 400030
+    - 3300024
+    - 2300024
+    Cylinder13:
+    - 100032
+    - 400032
+    - 3300026
+    - 2300026
+    Cylinder08:
+    - 100034
+    - 400034
+    - 3300028
+    - 2300028
+    Sphere11:
+    - 100036
+    - 400036
+    - 3300030
+    - 2300030
+    Group08:
+    - 100038
+    - 400038
+    //RootNode:
+    - 100040
+    - 400040
+    - 11100000
+    Cylinder14:
+    - 100042
+    - 400042
+    - 3300032
+    - 2300032
+    Cylinder07:
+    - 100044
+    - 400044
+    - 3300034
+    - 2300034
+    Group06:
+    - 100046
+    - 400046
+    Cylinder05:
+    - 100048
+    - 400048
+    - 3300036
+    - 2300036
+    Group03:
+    - 100050
+    - 400050
+    Sphere05:
+    - 100052
+    - 400052
+    - 3300038
+    - 2300038
+    Sphere06:
+    - 100054
+    - 400054
+    - 3300040
+    - 2300040
+    ship:
+    - 100056
+    - 400056
+    - 3300042
+    - 2300042
+    Group11:
+    - 100058
+    - 400058
+    Group04:
+    - 100060
+    - 400060
+    Group01:
+    - 100062
+    - 400062
+    Cylinder09:
+    - 100064
+    - 400064
+    - 3300044
+    - 2300044
+    Cylinder12:
+    - 100066
+    - 400066
+    - 3300046
+    - 2300046
+    Group07:
+    - 100068
+    - 400068
+    Sphere10:
+    - 100070
+    - 400070
+    - 3300048
+    - 2300048
+    Group10:
+    - 100072
+    - 400072
+    Cylinder01:
+    - 100074
+    - 400074
+    - 3300050
+    - 2300050
+    Sphere08:
+    - 100076
+    - 400076
+    - 3300052
+    - 2300052
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: ship
+    4300002: Cylinder03
+    4300004: Cylinder04
+    4300006: Cylinder09
+    4300008: Sphere07
+    4300010: Sphere02
+    4300012: Cylinder05
+    4300014: Sphere03
+    4300016: Cylinder06
+    4300018: Sphere04
+    4300020: Cylinder07
+    4300022: Sphere05
+    4300024: Cylinder02
+    4300026: Cylinder01
+    4300028: Cylinder08
+    4300030: Sphere06
+    4300032: Sphere08
+    4300034: Cylinder11
+    4300036: Sphere10
+    4300038: Cylinder12
+    4300040: Sphere11
+    4300042: Sphere09
+    4300044: Cylinder10
+    4300046: Cylinder13
+    4300048: Cylinder15
+    4300050: Cylinder14
+    4300052: Sphere12

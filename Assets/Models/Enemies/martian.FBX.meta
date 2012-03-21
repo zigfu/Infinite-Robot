@@ -1,0 +1,97 @@
+fileFormatVersion: 1
+guid: 6bfe5296bd7554842a2bf83a0f2df20e
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    Sphere04:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+    Sphere05:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    Sphere06:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    Sphere07:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    Sphere08:
+    - 100010
+    - 400010
+    - 3300008
+    - 2300008
+    Sphere09:
+    - 100012
+    - 400012
+    - 3300010
+    - 2300010
+    Cylinder01:
+    - 100014
+    - 400014
+    - 3300012
+    - 2300012
+    Sphere01:
+    - 100016
+    - 400016
+    - 3300014
+    - 2300014
+    Cylinder02:
+    - 100018
+    - 400018
+    - 3300016
+    - 2300016
+    Sphere02:
+    - 100020
+    - 400020
+    - 3300018
+    - 2300018
+    Sphere03:
+    - 100022
+    - 400022
+    - 3300020
+    - 2300020
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Cylinder01
+    4300002: Sphere01
+    4300004: Cylinder02
+    4300006: Sphere02
+    4300008: Sphere03
+    4300010: Sphere04
+    4300012: Sphere05
+    4300014: Sphere06
+    4300016: Sphere07
+    4300018: Sphere08
+    4300020: Sphere09
