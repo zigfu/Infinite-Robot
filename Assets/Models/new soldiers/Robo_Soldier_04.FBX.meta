@@ -1,0 +1,61 @@
+fileFormatVersion: 1
+guid: 1c23ef96f274c6942b743b3ace346138
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    Object01:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    Lamp:
+    - 100002
+    - 400002
+    Camera:
+    - 100004
+    - 400004
+    Mesh_001:
+    - 100006
+    - 400006
+    - 3300002
+    - 2300002
+    //RootNode:
+    - 100008
+    - 400008
+    - 11100000
+    Mesh_000:
+    - 100010
+    - 400010
+    - 3300004
+    - 2300004
+    Object02:
+    - 100012
+    - 400012
+    - 3300006
+    - 2300006
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Mesh_000
+    4300002: Mesh_001
+    4300004: Object01
+    4300006: Object02
