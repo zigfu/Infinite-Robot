@@ -1,0 +1,211 @@
+fileFormatVersion: 1
+guid: 490995060f7284f5d88f616878140fae
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    L_LegtoePivot:
+    - 100000
+    - 400000
+    L_LegL_Legtoe:
+    - 100002
+    - 400002
+    L_Legankle:
+    - 100004
+    - 400004
+    R_Ball:
+    - 100006
+    - 400006
+    L_LegheelPivot:
+    - 100008
+    - 400008
+    R_Foot:
+    - 100010
+    - 400010
+    L_LegikAnkle:
+    - 100012
+    - 400012
+    L_Knee_CTRL:
+    - 100014
+    - 400014
+    Spine_2:
+    - 100016
+    - 400016
+    Head:
+    - 100018
+    - 400018
+    L_Hip:
+    - 100020
+    - 400020
+    L_Legtoe:
+    - 100022
+    - 400022
+    L_LegL_Legankle:
+    - 100024
+    - 400024
+    L_LegikToe:
+    - 100026
+    - 400026
+    R_Legankle:
+    - 100028
+    - 400028
+    R_Arm:
+    - 100030
+    - 400030
+    R_LegikToe:
+    - 100032
+    - 400032
+    L_LegikBall:
+    - 100034
+    - 400034
+    Root:
+    - 100036
+    - 400036
+    R_LegtoePivot:
+    - 100038
+    - 400038
+    L_Elbow:
+    - 100040
+    - 400040
+    R_Ankle:
+    - 100042
+    - 400042
+    R_Shoulder:
+    - 100044
+    - 400044
+    R_LegheelPivot:
+    - 100046
+    - 400046
+    L_Hand:
+    - 100048
+    - 400048
+    R_Knee_CTRL:
+    - 100050
+    - 400050
+    R_LegR_Legankle:
+    - 100052
+    - 400052
+    R_LegikAnkle:
+    - 100054
+    - 400054
+    R_LegR_Legtoe:
+    - 100056
+    - 400056
+    Head_Top:
+    - 100058
+    - 400058
+    MasterMover1:
+    - 100060
+    - 400060
+    L_Shoulder:
+    - 100062
+    - 400062
+    L_Arm:
+    - 100064
+    - 400064
+    R_LegikBall:
+    - 100066
+    - 400066
+    L_Knee:
+    - 100068
+    - 400068
+    R_Elbow:
+    - 100070
+    - 400070
+    Neck:
+    - 100072
+    - 400072
+    Spine_3:
+    - 100074
+    - 400074
+    L_Foot:
+    - 100076
+    - 400076
+    R_Legtoe:
+    - 100078
+    - 400078
+    R_Knee:
+    - 100080
+    - 400080
+    L_Ankle:
+    - 100082
+    - 400082
+    L_Ball:
+    - 100084
+    - 400084
+    R_Hip:
+    - 100086
+    - 400086
+    Spine_1:
+    - 100088
+    - 400088
+    R_Hand_Loc:
+    - 100090
+    - 400090
+    R_Hand:
+    - 100092
+    - 400092
+    Root 1:
+    - 100094
+    - 400094
+    - 13700000
+    L_LegL_Foot_CTRL:
+    - 100096
+    - 400096
+    R_LegR_Foot_CTRL:
+    - 100098
+    - 400098
+    R_LegR_LegheelPivot:
+    - 100100
+    - 400100
+    L_LegL_LegtoePivot:
+    - 100102
+    - 400102
+    L_LegL_LegheelPivot:
+    - 100104
+    - 400104
+    R_LegR_LegtoePivot:
+    - 100106
+    - 400106
+    L_Arm_Pole:
+    - 100108
+    - 400108
+    L_IK_Hand:
+    - 100110
+    - 400110
+    R_IK_Hand:
+    - 100112
+    - 400112
+    R_Arm_Pole:
+    - 100114
+    - 400114
+    //RootNode:
+    - 100116
+    - 400116
+    - 11100000
+    AW_Man_01:
+    - 100118
+    - 400118
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: AW_Man_01
+    7400000: Take 001 //// Soldier@runSlow

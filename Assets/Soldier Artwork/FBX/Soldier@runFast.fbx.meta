@@ -1,0 +1,172 @@
+fileFormatVersion: 1
+guid: 550a5f218ea4a4cf0b940d24097c20fe
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    R_Ball:
+    - 100000
+    - 400000
+    R_Knee_CTRL:
+    - 100002
+    - 400002
+    R_Arm:
+    - 100004
+    - 400004
+    L_Arm:
+    - 100006
+    - 400006
+    Spine_2:
+    - 100008
+    - 400008
+    Neck:
+    - 100010
+    - 400010
+    R_Elbow:
+    - 100012
+    - 400012
+    L_Elbow:
+    - 100014
+    - 400014
+    R_Hip:
+    - 100016
+    - 400016
+    L_Hip:
+    - 100018
+    - 400018
+    Spine_3:
+    - 100020
+    - 400020
+    MasterMover1:
+    - 100022
+    - 400022
+    R_Ankle:
+    - 100024
+    - 400024
+    L_LegtoePivot:
+    - 100026
+    - 400026
+    L_LegheelPivot:
+    - 100028
+    - 400028
+    Root:
+    - 100030
+    - 400030
+    Spine_1:
+    - 100032
+    - 400032
+    L_Ball:
+    - 100034
+    - 400034
+    L_Foot:
+    - 100036
+    - 400036
+    Head:
+    - 100038
+    - 400038
+    Root 1:
+    - 100040
+    - 400040
+    - 13700000
+    L_Shoulder:
+    - 100042
+    - 400042
+    L_Knee:
+    - 100044
+    - 400044
+    R_Hand:
+    - 100046
+    - 400046
+    R_Foot:
+    - 100048
+    - 400048
+    L_Knee_CTRL:
+    - 100050
+    - 400050
+    L_Ankle:
+    - 100052
+    - 400052
+    R_Shoulder:
+    - 100054
+    - 400054
+    Head_Top:
+    - 100056
+    - 400056
+    R_Knee:
+    - 100058
+    - 400058
+    L_Hand:
+    - 100060
+    - 400060
+    L_LegL_Foot_CTRL:
+    - 100062
+    - 400062
+    R_LegR_Foot_CTRL:
+    - 100064
+    - 400064
+    L_LegikAnkle:
+    - 100066
+    - 400066
+    SoldierLowPoly1:
+    - 100068
+    - 400068
+    R_Legtoe:
+    - 100070
+    - 400070
+    R_LegikBall:
+    - 100072
+    - 400072
+    L_Legankle:
+    - 100074
+    - 400074
+    R_LegtoePivot:
+    - 100076
+    - 400076
+    R_Legankle:
+    - 100078
+    - 400078
+    R_LegheelPivot:
+    - 100080
+    - 400080
+    L_LegikToe:
+    - 100082
+    - 400082
+    R_LegikToe:
+    - 100084
+    - 400084
+    R_LegikAnkle:
+    - 100086
+    - 400086
+    L_LegikBall:
+    - 100088
+    - 400088
+    //RootNode:
+    - 100090
+    - 400090
+    - 11100000
+    L_Legtoe:
+    - 100092
+    - 400092
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: SoldierLowPoly1
+    7400000: Take 001 //// Soldier@runFast
